@@ -67,11 +67,13 @@ int main (void){
                 
             }
         break;
+    
+        default:
+            printf("no hay salida");
+            
+        
 
         }
-
-
-
       return 0;
         }
     
